@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525447371946",
+    "firebase_url": "https://anglolearner-d482b.firebaseio.com",
+    "project_id": "anglolearner-d482b",
+    "storage_bucket": "anglolearner-d482b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525447371946:android:c4ac6e18ead2dbc9",
+        "android_client_info": {
+          "package_name": "iliasdm.com.anglolearner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525447371946-5vt5hpj2einl1abj54q33md2glce3r71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iliasdm.com.anglolearner",
+            "certificate_hash": "2704e107e7e2aa2a535955e12b3099d357d99827"
+          }
+        },
+        {
+          "client_id": "525447371946-os90tlegrg3ldbc9asjufelq1979gkcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6p1gG0OUSc-W-bY14FYOVnCWYihubw58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525447371946-os90tlegrg3ldbc9asjufelq1979gkcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
